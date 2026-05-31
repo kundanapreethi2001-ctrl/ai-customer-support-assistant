@@ -1,0 +1,5 @@
+Password resets are completed using OTP verification.
+Refunds are processed within 5 to 7 business days.
+Orders can be tracked from the My Orders section.
+Premium users get 24/7 support access.
+Subscription cancellations become effective next billing cycle.
